@@ -1,4 +1,4 @@
-# ir.seefa.tutorial.spring-hibernate-tm-tutorial
+# spring-hibernate-tm-tutorial
 
 This tutorial code used to explain Spring with Hibernate and using Transaction management for persistence layer and call CRUD operations with REST requests and specially adding HikariCP API for improvement database connection management by following tasks:
 
